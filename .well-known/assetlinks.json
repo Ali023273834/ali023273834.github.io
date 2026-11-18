@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.ali023273834.rerteqd2",
+      "sha256_cert_fingerprints": [
+        "97:E5:D0:83:47:2E:8E:E4:12:CD:D5:A5:81:AA:4D:AD:43:CA:3A:42:38:10:C2:F8:48:83:AA:13:D7:96:5E:84"
+      ]
+    }
+  }
+]
